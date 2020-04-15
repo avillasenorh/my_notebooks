@@ -1,6 +1,6 @@
-name: example
+name: my_notebooks
 channels:
   - conda-forge
- dependencies
+ dependencies:
    - python =3
    - obspy >=1.2.0
